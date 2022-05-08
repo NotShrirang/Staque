@@ -1,2 +1,2 @@
 # Staque
-Combination of data structures "stack" and "queue"
+Combination of "stack" and "queue"
